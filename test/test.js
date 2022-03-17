@@ -12,6 +12,8 @@
  * SFT image rendered in DOM
  */
 
+// jacob changes poggers
+
 class Wallet {
   id;
   balance;
