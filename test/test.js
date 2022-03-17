@@ -12,6 +12,10 @@
  * SFT image rendered in DOM
  */
 
+
+/*This is Joe's Change
+
+
 class Wallet {
   id;
   balance;
