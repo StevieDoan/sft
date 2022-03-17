@@ -13,9 +13,7 @@
  */
 
 
-/*This is Joe's Change
-
-
+//This is Joe's Change
 class Wallet {
   id;
   balance;
