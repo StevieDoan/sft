@@ -12,6 +12,8 @@
  * SFT image rendered in DOM
  */
 
+
+//This is Joe's Change
 // jacob changes poggers
 
 class Wallet {
